@@ -13,9 +13,9 @@ A simple website to practice HTML/CSS and later Javascript/JQuery.
 ### Installing
 
 ```
-1. Press clone or dowload on github in this project.
-2. Dowload ZIP
-3. Extract the ZIP fil
+1. Click "Clone or dowload" on github in this project.
+2. Click "Dowload ZIP"
+3. Extract the ZIP file
 4. Keep only the src folder, feel free to delete the rest.
 ```
 
