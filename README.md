@@ -31,4 +31,4 @@ A simple website to practice HTML/CSS and later Javascript/JQuery.
 ## Acknowledgments
 
 * [codeacademy](https://www.codecademy.com/): Used it's HTML/CSS tutorials as inspiration for the layout of the website.
-* Pictures/Links: Most of the used pictures/links were gotten through google. Credit goes to the owners of course.
+* Pictures/Links: Most of the used pictures/links were gotten through google, credit goes to the respective owners.
