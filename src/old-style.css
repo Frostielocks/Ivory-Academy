@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, sans-serrif;
+  color: DimGrey;
+  /*border: 1px solid green;*/
+}
+
+/* The following rules handle the banners. */
+
+.topBanner {
+  background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);
+  text-align: center;
+  height: 50px;
+  width: 70%;
+  position: fixed;
+  left: 15%;
+}
+
+.rightBanner {
+  /*background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);*/
+  background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);
+  height: 100%;
+  width: 15%;
+  position: fixed;
+  left: 85%;
+}
+
+.leftBanner {
+  /*background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);*/
+  background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);
+  height: 100%;
+  width: 15%;
+  position: fixed;
+}
+
+.bottomBanner {
+    background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);
+    position: fixed;
+    height: 100px;
+    top: 90%;
+    width: 70%;
+    left: +15%;
+}
+
+/* The following rules handle main */
+
+.main {
+  background-image: url(http://www.thekeystocolor.com/wp-content/uploads/2010/07/BeigeTooPinkFixed.jpg);
+  height: 500px;
+  width: 70%;
+  position: relative;
+  top: +50px;
+  left: 15%;
+}
+
+.text {
+  text-align: center;
+  width: 60%;
+  position: relative;
+  left: 20%;
+}
+
+.list {
+  text-align: left;
+  position: relative;
+  left: 20%;
+}
+
+.center {
+  position: relative;
+  left: 13%;
+}
+
+/* The following rules handle filling at the bottom. */
+
+.bottomFill {
+  background-image: url(http://www.thekeystocolor.com/wp-content/uploads/2010/07/BeigeTooPinkFixed.jpg);
+  height: 100%;
+  width: 70%;
+  position: fixed;
+  top: +550px;
+  left: 15%;
+}

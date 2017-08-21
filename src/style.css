@@ -1,84 +1,119 @@
 * {
+ font-family: Roboto, sans-serrif;
+ color: #FFF;
+ /*border: 1px solid green;*/
+}
+
+
+/* HTML Elements */
+
+
+a {
+  color: lightgreen;
+}
+
+body {
+  /*Default Rules:*/
+  background-color: #FFF;
   margin: 0;
   padding: 0;
-  font-family: Roboto, sans-serrif;
-  color: DimGrey;
-  /*border: 1px solid green;*/
+  /*Specific Rules:*/
+  background: url("http://www.sanjeev.net/colors/color-coastal-blue.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-/* The following rules handle the banners. */
-
-.topBanner {
-  background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);
+h1 {
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 60px;
+  margin: 0 auto;
   text-align: center;
-  height: 50px;
-  width: 70%;
-  position: fixed;
-  left: 15%;
 }
 
-.rightBanner {
-  /*background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);*/
-  background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);
-  height: 100%;
-  width: 15%;
-  position: fixed;
-  left: 85%;
+h2 {
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 10px auto;
+  text-align: center;
+  text-decoration: underline;
 }
 
-.leftBanner {
-  /*background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);*/
-  background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);
-  height: 100%;
-  width: 15%;
-  position: fixed;
+h3 {
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+  font-weight: 100;
+  line-height: 30px;
+  margin: 10px auto;
+  text-align: center;
+  text-decoration: underline;
 }
 
-.bottomBanner {
-    background-image: url(https://www.colourbox.com/preview/1908334-ice-or-frost-background.jpg);
-    position: fixed;
-    height: 100px;
-    top: 90%;
-    width: 70%;
-    left: +15%;
+h4 {
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+  font-weight: 100;
+  line-height: 30px;
+  margin: 0px auto;
+  margin-bottom: 10px;
+  text-align: center;
 }
 
-/* The following rules handle main */
-
-.main {
-  background-image: url(http://www.thekeystocolor.com/wp-content/uploads/2010/07/BeigeTooPinkFixed.jpg);
-  height: 500px;
-  width: 70%;
-  position: relative;
-  top: +50px;
-  left: 15%;
-}
-
-.text {
+p {
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  line-height: 24px;
+  margin: 0 auto;
   text-align: center;
   width: 60%;
-  position: relative;
-  left: 20%;
 }
+
+
+/* HTML Classes */
+
 
 .list {
-  text-align: left;
-  position: relative;
-  left: 20%;
+  font-size: 20px;
+  line-height: 24px;
+  list-style-position: inside;
+  padding: 0px 40px;
+  text-align: center;
 }
 
-.center {
-  position: relative;
-  left: 13%;
+.logo {
+  display: block;
+  margin: 0 auto;
 }
 
-/* The following rules handle filling at the bottom. */
+.main {
+  /*background-image: url("http://www.sanjeev.net/colors/color-coastal-blue.jpg");*/
+  /*background-image: url("https://raw.githubusercontent.com/GNOME/gnome-backgrounds/0824a1480a9e0f3cc26ecf90607bc9f9bb19a3b7/nature/Terraform-blue.jpg");*/
+  /*background-image: url("http://wallpapercave.com/wp/OQfDPq2.jpg");*/
+  background-image: url("https://d2t79q9g75enw7.cloudfront.net/blog/wp-content/uploads/2016/10/blog-banner.jpg");
+  background-size: cover;
+  margin: 0 auto;
+  padding: 40px;
+}
 
-.bottomFill {
-  background-image: url(http://www.thekeystocolor.com/wp-content/uploads/2010/07/BeigeTooPinkFixed.jpg);
-  height: 100%;
-  width: 70%;
-  position: fixed;
-  top: +550px;
-  left: 15%;
+.section {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/3f/6a/0b/3f6a0b60f932a1a7d6d7cc5e1502da26--image-fb-teal.jpg");
+  background-size: cover;
+  background-position: center;
+  border: 3px solid #FFF;
+  margin: 10px 0px;
+  padding: 40px 0px;
+}
+
+.sections {
+  margin: 40px auto;
+  width: 60%;
 }
