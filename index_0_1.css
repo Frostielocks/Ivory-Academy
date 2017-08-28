@@ -1,6 +1,14 @@
 /* HTML Elements */
 
 
+ul {
+  list-style-type: none;
+}
+
+
+/* HTML Classes */
+
+
 .header {
   /*background-image: url("https://d2t79q9g75enw7.cloudfront.net/blog/wp-content/uploads/2016/10/blog-banner.jpg");
   background-image: url("https://www.carthage.edu/live/image/gid/46/3711_computerscience-banner-final.jpg");*/
