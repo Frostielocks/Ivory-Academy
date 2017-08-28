@@ -1,6 +1,7 @@
 # Ivory-Academy
 
 A simple website to practice HTML/CSS and later Javascript/JQuery.
+This website can also be found on [ursus.sytes.net](http://ursus.sytes.net/Ivory-Academy).
 
 ## Getting Started
 
@@ -14,7 +15,6 @@ A simple website to practice HTML/CSS and later Javascript/JQuery.
 1. Click "Clone or dowload" on github in this project
 2. Click "Dowload ZIP"
 3. Extract the ZIP file
-4. Keep only the src folder, feel free to delete the rest
 ```
 
 ### Running
@@ -30,5 +30,5 @@ A simple website to practice HTML/CSS and later Javascript/JQuery.
 
 ## Acknowledgments
 
-* [codeacademy](https://www.codecademy.com/): Used it's HTML/CSS tutorials as inspiration for the layout of the website.
+* [codeacademy](https://www.codecademy.com/): Used their HTML/CSS tutorials as inspiration for the layout of the website.
 * Pictures/Links: Most of the used pictures/links were gotten through google, credit goes to the respective owners.
