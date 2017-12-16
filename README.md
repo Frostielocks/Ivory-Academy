@@ -31,4 +31,4 @@ This website can also be found on [ursus.sytes.net](http://ursus.sytes.net/Ivory
 ## Acknowledgments
 
 * [codeacademy](https://www.codecademy.com/): Used their HTML/CSS tutorials as inspiration for the layout of the website.
-* Pictures/Links: Most of the used pictures/links were gotten through google, credit goes to the respective owners.
+* Pictures/Links: Most of the used pictures were gotten through google, credit goes to the respective owners.

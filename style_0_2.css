@@ -18,7 +18,7 @@ body {
   margin: 0;
   padding: 0;
   /*Specific Rules:*/
-  background: url("http://www.sanjeev.net/colors/color-coastal-blue.jpg");
+  background: url("resources/coastal-blue_background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -95,17 +95,17 @@ p {
 }
 
 .main {
-  /*background-image: url("http://www.sanjeev.net/colors/color-coastal-blue.jpg");*/
-  /*background-image: url("https://raw.githubusercontent.com/GNOME/gnome-backgrounds/0824a1480a9e0f3cc26ecf90607bc9f9bb19a3b7/nature/Terraform-blue.jpg");*/
-  /*background-image: url("http://wallpapercave.com/wp/OQfDPq2.jpg");*/
-  background-image: url("https://d2t79q9g75enw7.cloudfront.net/blog/wp-content/uploads/2016/10/blog-banner.jpg");
+  /*background: url("resources/coastal-blue_background.jpg");*/
+  /*background-image: url("resources/terraform-blue_background.jpg");*/
+  /*background-image: url("resources/basic-pc-blue_home-screen.jpg");*/
+  background-image: url("resources/circuit_bottom-banner.jpg");
   background-size: cover;
   margin: 0 auto;
   padding: 40px;
 }
 
 .section {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/3f/6a/0b/3f6a0b60f932a1a7d6d7cc5e1502da26--image-fb-teal.jpg");
+  background-image: url("resources/teal_background.jpg");
   background-size: cover;
   background-position: center;
   border: 3px solid #FFF;
