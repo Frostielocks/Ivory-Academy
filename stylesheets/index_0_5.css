@@ -10,8 +10,8 @@ ul {
 
 
 .header {
-  /*background-image: url("resources/css-resources/binary_home-screen-alternate");*/
-  background-image: url("resources/css-resources/binary_home-screen.jpg");
+  /*background-image: url("../resources/css-resources/binary_home-screen-alternate");*/
+  background-image: url("../resources/css-resources/binary_home-screen.jpg");
   background-position: center center;
   background-size: cover;
   border-bottom: 1px solid #FFF;
