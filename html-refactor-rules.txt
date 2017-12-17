@@ -1,5 +1,5 @@
-python-icon.png
-python_icon.png
+style_0_2.css
+style_0_3.css
 cyber-security.html
 game-programming.html
 index.html
