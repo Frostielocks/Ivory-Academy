@@ -1,6 +1,0 @@
-favicon.png
-html-resources/favicon.png
-index_0_4.css
-page_0_2.css
-style_0_2.css
-temp_0_1.css
