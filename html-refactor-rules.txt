@@ -1,5 +1,5 @@
-style_0_1
-style_0_2
+python-icon.png
+python_icon.png
 cyber-security.html
 game-programming.html
 index.html

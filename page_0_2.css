@@ -2,8 +2,8 @@
 
 
 .header {
-  /*background-image: url("resources/circuit_top-banner-alternate");*/
-  background-image: url("resources/circuit_top-banner.png");
+  /*background-image: url("resources/css-resources/circuit_top-banner-alternate");*/
+  background-image: url("resources/css-resources/circuit_top-banner.png");
   background-position: center center;
   background-size: cover;
   border-bottom: 1px solid #FFF;
