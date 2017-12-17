@@ -1,7 +1,7 @@
 # Ivory-Academy
 
 A simple website to practice HTML/CSS and later Javascript/JQuery.
-This website can also be found on [ursus.sytes.net](http://ursus.sytes.net/Ivory-Academy).
+This website can also be found on [ursus.servehttp.com](https://ursus.servehttp.com/Ivory-Academy).
 
 ## Getting Started
 
