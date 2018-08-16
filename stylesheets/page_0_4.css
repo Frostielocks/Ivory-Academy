@@ -1,0 +1,12 @@
+/* HTML Classes */
+
+
+.header {
+  /* background-image: url("../resources/css-resources/circuit-top-banner.png"); */
+  background-image: url("../resources/css-resources/circuit-top-banner-alternate.png");
+  background-position: center center;
+  background-size: cover;
+  border-bottom: 1px solid #FFF;
+  height: 100px;
+  width: 100%;
+}

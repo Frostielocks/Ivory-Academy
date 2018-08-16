@@ -95,9 +95,6 @@ p {
 }
 
 .main {
-  /*background: url("../resources/css-resources/coastal-blue_background.jpg");*/
-  /*background-image: url("../resources/css-resources/terraform-blue_background.jpg");*/
-  /*background-image: url("../resources/css-resources/basic-pc-blue_home-screen.jpg");*/
   background-image: url("../resources/css-resources/circuit_bottom-banner.jpg");
   background-size: cover;
   margin: 0 auto;
