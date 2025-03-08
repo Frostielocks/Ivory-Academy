@@ -25,7 +25,7 @@ A simple website to practice HTML/CSS. This website can also be found on [ursus.
 
 ### Authors
 
-* **Mathijs Hubrechtsen**
+* **Roos Hubrechtsen**
 
 ## Acknowledgments
 
